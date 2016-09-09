@@ -110,6 +110,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="tmp1.cpp" />
+    <ClCompile Include="tmp2.cpp" />
+    <ClCompile Include="tmp3.cpp" />
+    <ClCompile Include="tmp4.cpp" />
+    <ClCompile Include="tmp5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
